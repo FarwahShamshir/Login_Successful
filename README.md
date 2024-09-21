@@ -1,16 +1,12 @@
-# getx
+Flutter GetX Login Screen
+This repository demonstrates how to create a simple login screen using Flutter and GetX for state management and API integration. The project covers the essential steps to build a login form, handle user input, interact with an API, and display success or error messages.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Login Form with email and password fields
+API Integration using http package for user authentication
+State Management using GetX controllers for form fields and API interaction
+Snackbars to show login success or error messages
+Clean and easy-to-understand architecture
+Packages Used
+GetX for state management and routing.
+http for API calls.
