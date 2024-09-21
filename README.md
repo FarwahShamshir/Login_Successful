@@ -10,3 +10,7 @@ Clean and easy-to-understand architecture
 Packages Used
 GetX for state management and routing.
 http for API calls.
+
+
+https://github.com/user-attachments/assets/568340bc-a8a5-4745-8b5b-2cf923d72127
+
